@@ -1,5 +1,5 @@
 {
-  "name": "vue-the-mask",
+  "name": "@UnclaimedWorld/vue-the-mask",
   "version": "0.11.1",
   "description": "Tiny (2KB) and dependency free mask input for Vue.js",
   "main": "dist/vue-the-mask.js",
@@ -101,5 +101,6 @@
   },
   "dependencies": {
     "start-server-and-test": "^1.4.1"
-  }
+  },
+  "repository": "https://github.com/UnclaimedWorld/vue-the-mask.git"
 }
